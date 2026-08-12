@@ -1,0 +1,8 @@
+PySide6
+SpeechRecognition
+edge-tts
+playsound==1.2.2
+pygame
+openai
+python-dotenv
+PyAudio
